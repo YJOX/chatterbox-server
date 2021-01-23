@@ -14,3 +14,5 @@ Not implemented:
 - Several checks are missing in the code
 
 The code is freely distributed, you can use it anywhere and in any way.
+
+Client: https://github.com/YJOX/chatterbox-client
