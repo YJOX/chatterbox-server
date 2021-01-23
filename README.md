@@ -8,6 +8,7 @@ Implemented:
 - Client-server interaction
 - Downloading created chats from the server
 - Create a new chat
+- Working with the MySQL database
 
 Not implemented:
 - The chats themselves (messaging)
